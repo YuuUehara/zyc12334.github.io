@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My first post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <title>论文自闭的结果</title>
+      <link>http://example.org/posts/%E8%87%AA%E9%97%AD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>This is my post body</description>
+      <guid>http://example.org/posts/%E8%87%AA%E9%97%AD/</guid>
+      <description>毕业论文写自闭了，于是就来整这种玩意儿了…… 但说实话Hugo其实还是不太会用 而且毕设感觉大概是改不出来了 但再怎么说，也算是踏出了一步了？</description>
     </item>
     
   </channel>
