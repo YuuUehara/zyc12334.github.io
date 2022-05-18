@@ -5,7 +5,20 @@
     <link>https://zyc12334.github.io/categories/%E6%97%A5%E5%B8%B8/</link>
     <description>Recent content in 日常 on 西湖寒碧</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://zyc12334.github.io/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zyc12334.github.io/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>话说回来，我用的工具……</title>
+      <link>https://zyc12334.github.io/posts/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zyc12334.github.io/posts/%E5%B7%A5%E5%85%B7/</guid>
+      <description>如群里所说，我可能算是个比较坚定的Emacs用户。
+かもしれない
+为了贯彻这一思路我最后还是在Mac上使用Emacs+Ox-hugo来完成的博客。
+fn main() {  println!(&amp;#34;Hello, world!&amp;#34;); } 这只是为了测试下这个主题下代码染色好不好用……只是在自己的Emacs编辑器中这玩意儿倒是显示的非常正常。</description>
+    </item>
+    
     <item>
       <title>论文自闭的结果</title>
       <link>https://zyc12334.github.io/posts/%E8%87%AA%E9%97%AD/</link>

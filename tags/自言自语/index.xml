@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 西湖寒碧</title>
-    <link>https://zyc12334.github.io/posts/</link>
-    <description>Recent content in Posts on 西湖寒碧</description>
+    <title>自言自语 on 西湖寒碧</title>
+    <link>https://zyc12334.github.io/tags/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AF%AD/</link>
+    <description>Recent content in 自言自语 on 西湖寒碧</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zyc12334.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zyc12334.github.io/tags/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AF%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>话说回来，我用的工具……</title>
       <link>https://zyc12334.github.io/posts/%E5%B7%A5%E5%85%B7/</link>
@@ -17,15 +17,6 @@
 かもしれない
 为了贯彻这一思路我最后还是在Mac上使用Emacs+Ox-hugo来完成的博客。
 fn main() {  println!(&amp;#34;Hello, world!&amp;#34;); } 这只是为了测试下这个主题下代码染色好不好用……只是在自己的Emacs编辑器中这玩意儿倒是显示的非常正常。</description>
-    </item>
-    
-    <item>
-      <title>论文自闭的结果</title>
-      <link>https://zyc12334.github.io/posts/%E8%87%AA%E9%97%AD/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zyc12334.github.io/posts/%E8%87%AA%E9%97%AD/</guid>
-      <description>毕业论文写自闭了，于是就来整这种玩意儿了…… 但说实话Hugo其实还是不太会用 而且毕设感觉大概是改不出来了 但再怎么说，也算是踏出了一步了？</description>
     </item>
     
   </channel>
